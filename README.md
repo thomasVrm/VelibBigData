@@ -9,4 +9,4 @@ Avec l'outil "Navicat" j'ai réaliser un "MapReduce" qui permet de récupérer l
 
 Voir le code du MapReduce : https://github.com/thomasVrm/VelibBigData/blob/main/pythonProject/MapReduce_Code.PNG
 
-Voir le résultat du MapReduce : 
+Voir le résultat du MapReduce : https://github.com/thomasVrm/VelibBigData/blob/main/pythonProject/MapReduce_Table.PNG
