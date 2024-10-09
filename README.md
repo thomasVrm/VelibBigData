@@ -6,3 +6,7 @@ Les données sont récupérer puis écrite dans une base mongoDB grâce au fichi
 Le fichier "map.py", quand a lui s'occupe de récupérer les données de la base mongoDB et grâce a un input de l'utilisateur affiche sa position sur une carte "Leaflet" ainsi que les 10 Vélibs les plus proches de sa position.
 
 Avec l'outil "Navicat" j'ai réaliser un "MapReduce" qui permet de récupérer le nombre total de vélos électriques disponibles (ebike) et le nombre total de vélos mécaniques (mechanical) par arrondissement (nom_arrondissement_communes).
+
+Voir le code du MapReduce : https://github.com/thomasVrm/VelibBigData/blob/main/pythonProject/MapReduce_Code.PNG
+
+Voir le résultat du MapReduce : 
